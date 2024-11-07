@@ -1,0 +1,5 @@
+{
+   "pretrained_model_name": "bert-base-uncased",
+   "loss_space_dim": 128
+}
+
